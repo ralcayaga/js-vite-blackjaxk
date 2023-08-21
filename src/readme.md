@@ -9,4 +9,4 @@ Pasos para ejecutar proyecto:
 
 Produccion
 1.- Ejecutar  ``` npm build ``` 
-2.- Tomar la carpeta   ``` dist ``` y deesplegarla
+2.- Tomar la carpeta   ``` dist ``` y desplegarla
