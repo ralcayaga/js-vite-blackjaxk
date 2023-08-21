@@ -7,8 +7,6 @@ Pasos para ejecutar proyecto:
 3.- Correr el devServer ``` npm run dev ```
 4.- Abrir proyecto en ```http://localhost:5173/```
 
-
 Produccion
-
 1.- Ejecutar  ``` npm build ``` 
 2.- Tomar la carpeta   ``` dist ``` y deesplegarla
